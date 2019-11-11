@@ -4,9 +4,17 @@ Chi legge questo file, pur non sapendo nulla del progetto, dovrebbe ottenere tut
 le informazioni di cui ha bisogno. Probabilmente le informazioni essenziali sono:
 ----------------------------------------------------------------------------------
 
-NOME DEL PROGETTO:
-OBIETTIVO DEL PROGETTO
-VERSIONE oppure DATA:
-COME AVVIARE IL PROGETTO:
-AUTORI:
-ISTRUZIONI PER L'UTENTE:
+NAME OF THE PROJECT: Hello World
+PURPOSE OF THE PROJECT: Saying hello to the world
+DATE : 11th November 2019
+HOW TO RUN:
+AUTHOR: mirroredFlower
+ISTRUCTIONS:
+  -Creation new repository 
+   git init
+   git remote add origin
+   git add .
+  -Commit 
+  git commit -m "message"
+   git push -u origin master
+   
